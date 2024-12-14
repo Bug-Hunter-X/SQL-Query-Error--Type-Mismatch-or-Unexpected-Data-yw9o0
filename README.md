@@ -1,0 +1,1 @@
+This repository demonstrates a common SQL query error resulting from a data type mismatch or unexpected data within a column.  The `bug.sql` file contains a query that may fail if the salary column isn't numeric, or if the department column has unexpected whitespace.  The `bugSolution.sql` file offers several solutions to handle these potential issues.
